@@ -1,5 +1,3 @@
-# Template project
-
 We want a "standalone" docker image that will run:
 * the jupyter server
 * A static website that exposes the Oriole version of the notebook content
