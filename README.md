@@ -153,7 +153,7 @@ By <span class="author" itemscope="" itemtype="http://schema.org/Person"><a href
 </header>
 ```
 
-# Websocke proxy
+# Websocket proxy
 
 The problem I need to solve is that the static server cannot proxy the websockets for the notebook, so the "run code" button doesn't work unless you directly enter the websocket endpoint.
 
